@@ -1,0 +1,14 @@
+C:\Projetos\Calculadora\bin\Debug\net7.0\Calculadora.exe
+C:\Projetos\Calculadora\bin\Debug\net7.0\Calculadora.deps.json
+C:\Projetos\Calculadora\bin\Debug\net7.0\Calculadora.runtimeconfig.json
+C:\Projetos\Calculadora\bin\Debug\net7.0\Calculadora.dll
+C:\Projetos\Calculadora\bin\Debug\net7.0\Calculadora.pdb
+C:\Projetos\Calculadora\obj\Debug\net7.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Calculadora\obj\Debug\net7.0\Calculadora.AssemblyInfoInputs.cache
+C:\Projetos\Calculadora\obj\Debug\net7.0\Calculadora.AssemblyInfo.cs
+C:\Projetos\Calculadora\obj\Debug\net7.0\Calculadora.csproj.CoreCompileInputs.cache
+C:\Projetos\Calculadora\obj\Debug\net7.0\Calculadora.dll
+C:\Projetos\Calculadora\obj\Debug\net7.0\refint\Calculadora.dll
+C:\Projetos\Calculadora\obj\Debug\net7.0\Calculadora.pdb
+C:\Projetos\Calculadora\obj\Debug\net7.0\Calculadora.genruntimeconfig.cache
+C:\Projetos\Calculadora\obj\Debug\net7.0\ref\Calculadora.dll
