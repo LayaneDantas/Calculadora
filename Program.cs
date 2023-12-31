@@ -1,5 +1,6 @@
 ﻿using Calculadora.Models;
 
+//Testando a Calculadora Simples
 
 //CalculadoraSimples calc = new();
 
@@ -11,6 +12,8 @@
 
 
 
+
+// Testado a Calculadora de IMC 
 CalculadoraIMC calcIMC = new();
 
 Console.Write("Digite seu peso: ");
